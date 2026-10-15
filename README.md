@@ -152,10 +152,8 @@ Visual Studio Code is recommended but is not compulsory.
 Clone the repository using:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/MSow6/PROG211_ASSIGNMENT_1_MAWIYA_SOW_905005175.git
 ```
-
-Replace `YOUR_REPOSITORY_URL` with the actual URL of your GitHub repository.
 
 Alternatively, download the project as a ZIP file from GitHub and extract it.
 
@@ -426,8 +424,6 @@ This project is an educational prototype and has several limitations:
 - License requirements and procedures have not been verified against official Sierra Leone government regulations.
 - The system has not been assessed for production security, accessibility, or legal compliance.
 
-These limitations should be addressed before considering real-world deployment.
-
 ## 15. Future Improvements
 
 Possible future improvements include:
@@ -463,33 +459,7 @@ A typical demonstration may follow this sequence:
 
 The exact menu wording and output depend on the version of the source code being executed.
 
-## 17. Screenshots
-
-Screenshots can be added to demonstrate the application's functionality.
-
-Recommended screenshots include:
-
-1. Main menu.
-2. Citizen registration.
-3. Citizen login.
-4. License application submission.
-5. Application tracking.
-6. Application status history.
-7. Application Officer menu.
-8. Approving Officer menu.
-9. System Administrator menu.
-
-After adding actual screenshots to the repository, they can be displayed here using Markdown.
-
-For example:
-
-```markdown
-![Main Menu](screenshots/main-menu.png)
-```
-
-The screenshot file must exist at the specified path for the image to display correctly.
-
-## 18. Academic Context
+## 17. Academic Context
 
 This project was developed as an individual Object-Oriented Programming assignment.
 
@@ -497,7 +467,7 @@ It demonstrates the application of Python classes, objects, attributes, methods,
 
 The project also explores how software design can incorporate Digital Public Goods principles.
 
-## 19. Author and Repository
+## 18. Author and Repository
 
 **Project Title:** Government License Management System for Sierra Leone
 
@@ -505,11 +475,11 @@ The project also explores how software design can incorporate Digital Public Goo
 
 **Project Type:** Educational Object-Oriented Programming Prototype
 
-**Author:** Add your name here.
+**Author:** Alhaji Mawiya Sow
 
-**GitHub Repository:** Add your repository URL here after publishing the project.
+**GitHub Repository:** https://github.com/MSow6/PROG211_ASSIGNMENT_1_MAWIYA_SOW_905005175.git
 
-## 20. Disclaimer
+## 19. Disclaimer
 
 This is an educational prototype and is not an official Government of Sierra Leone service.
 
